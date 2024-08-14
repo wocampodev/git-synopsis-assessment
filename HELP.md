@@ -50,8 +50,9 @@
 
 ## Actividad 5
 
-1. Primero cambio a la rama 'hotfix/main' para encontrar el commit con el mensaje "FIX: issue 2"
-
+1. Primero cambio a la rama 'hotfix/main' para encontrar el commit con el mensaje "FIX: issue 2", para lo cual hice uso del comando 'git log --oneline', tras lo cual, guardo el hash del commit('f5b37d2')
+    ![pruebaActividad05-paso1-1](./images/actividad-05/paso-1/01.PNG)
+    ![pruebaActividad05-paso1-2](./images/actividad-05/paso-1/02.PNG)
 2. 
 
 3. 
