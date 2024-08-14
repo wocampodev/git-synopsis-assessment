@@ -1,4 +1,8 @@
 # Solución
+    ![Clonando Repositorio](./images/Clonar_Repositorio.png)
+
+## SEGUNDO CAMBIO TIENE QUE APARECER 
+
 
 ## Actividad 1
 
