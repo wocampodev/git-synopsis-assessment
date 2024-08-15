@@ -95,6 +95,12 @@
 
 ## Actividad 2
 
-1. 
+1. Primero editare con texto simple el archivo main.py, creare un nuevo commit de prueba y hare el push al repositorio
+    ![pruebaActividad-xtra02-paso1-1](./images/xtra-02/paso-1/01.PNG)
+
+2. Ahora usare el comando 'git log --oneline' para buscar el hash del commit que quiero regresar '82bfa6e', despues usare el comando 'git reset --hard 82bfa6e' para regresar al estado del commit que elegi, y finalmente usare el comando 'git push origin A --force' para que fuerce la actualización del repositorio remoto, puesto que al estar mas actualizado que mi repositorio con regresion no aceptara un push normal
+    ![pruebaActividad-xtra02-paso2-1](./images/xtra-02/paso-1/01.PNG)
+    ![pruebaActividad-xtra02-paso2-2](./images/xtra-02/paso-2/02.PNG)
+    ![pruebaActividad-xtra02-paso2-3](./images/xtra-02/paso-3/03.PNG)
 
  
