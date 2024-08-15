@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;900&display=swap');
+
+:root {
+  --mainColor: #edab21;
+}
+body {
+  background-color: var(--mainColor);
+  font-family: 'Roboto', system-ui;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  flex-wrap: wrap;
+}
+
+h1 {
+  color: azure;
+}
+
+img {
+  height: 160px;
+}
