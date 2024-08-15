@@ -1,11 +1,13 @@
 # Solución
 
-## Actividad 1
+## Actividad 1 - se puede visualizar en la rama A
 
-1. Hola
+## Actividad 2 
 
-    ![01](./images/01.png)
+1. Regresar al directorio main y creamos un archivo ".gitignore"
 
-2. Hice Y
+    ![05](./images/05.png)
 
-    ...
+2. En el IDE, nos ubicamos dentro del archivo "gitignore" para introducir las carpetas a restringir
+
+    ![06](./images/06.png)
