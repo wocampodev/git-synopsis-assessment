@@ -58,7 +58,11 @@ luego realizar el push
 lo cual guardara los cambios en la rama-a.
 ![19](images/19.png)
 14. Para generar y publicar un nuevoi realise (version) utilizamos "git tag -a [V*.*.]".
+![20](images/20.png)
 15. Para devolver un fichero del staging area al estado anterior. Podemos utilizar "git restore" lo cual permite regresar el archivo enviado sin perder los cambios en el area de trabajo.
+![21](images/21.png)
+16. Tambien utilizar "git reset" lo cual permite regresar el archivo enviado sin perder los cambios en el area de trabajo.pero quita el archivo del area de preparacion.
+![22](images/22.png)
 
 
 
