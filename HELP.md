@@ -24,11 +24,10 @@
 
 ## Actividad 3
 
-1. 
-
+1. Cree las dos nuevas carpetas vacias en el directorio, usando el terminal y el comando 'mkdir'
+    ![pruebaActividad03-paso1-1](./images/actividad-03/paso-1/01.PNG)
+    ![pruebaActividad03-paso1-2](./images/actividad-03/paso-1/02.PNG)
 2. 
-
-3. 
 
 ## Actividad 4
 
