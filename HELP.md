@@ -64,3 +64,11 @@
 
 4. De la misma manera, se recupero los cambios realizados empleando el stash pop en la rama "b" sin generar commits en el historial de cambios:
     ![04](./images/GitStashB2.png)
+
+## Actividad 7
+
+1. Para ingresar la versión actual del código se empleo el git tag, el cual permite establecer el numero de version del codigo realizado, luego de identificar esta version como "v1.0.0":
+    ![01](./images/GitTag.png)
+
+2. Finalizando con el git tag, se subio la version actual al repositorio remoto: 
+    ![02](./images/RemotoTag.png)
