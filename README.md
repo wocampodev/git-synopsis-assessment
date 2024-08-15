@@ -29,3 +29,4 @@
 2. Ejemplifique el uso de git para regresar en el tiempo hacia un **commit anterior en la rama A** de su repositorio remoto propio.
 
     - Investigar sobre **git reset**
+Modificacion en B
