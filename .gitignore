@@ -1,0 +1,5 @@
+#ignore these folders
+
+/bin
+/node_modules
+/target
