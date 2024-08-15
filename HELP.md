@@ -84,3 +84,9 @@
 
 
 ## Actividad 2
+1. Para esta segunda actividad extra, se necesito agregar "restaurar.js" el cual se realizo dos commits en diferentes momentos:
+    ![01](./images/ExtraRest1.png)
+
+2. Para regresar el archivo en el commit que deseamos, perdiendo el registro del commit actual, se empleo el rest --hard con commit de la version que deseo regresar, en este caso es antes de escribir el texto: 
+    ![02](./images/ExtraRest2.png)
+
