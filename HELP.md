@@ -1,8 +1,9 @@
 # Solución
 
 ## Actividades Principales
+    
+0.  Hacemos un fork del repositorio original
 
-    Hacemos un fork del repositorio original
 
     ![01](./images/captura1.png)
 
