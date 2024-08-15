@@ -48,6 +48,8 @@
 
 ## Actividad 6: Ejemplifique el uso de git para la modificación de ficheros en la rama A y en la rama B simultaneamente sin generar commits en el historial de cambios.
 
+### Para esto utilizáramos el stash, porque permite modificar ficheros sin que se agreguen commits al historial de cambio, Creamos 2 archivos txt para la rama A y B los añadimos al staging área y después ponemos git status para verificar, agregamos git stash para ocultar el archivo y después mas adelante se coloco git stash pop para volver a ver el archivo
+
 ![image](https://github.com/user-attachments/assets/d662d594-ca90-4c0e-89ab-9505ffd4269d)
 
 ![image](https://github.com/user-attachments/assets/c2815258-6659-4512-977f-7124a420fdc1)
