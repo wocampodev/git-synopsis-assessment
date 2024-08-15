@@ -36,7 +36,7 @@
     ![01](./images/7.1.png)
     ![01](./images/07.png)
 
-3. Me ubico en la rama A y hago merge para traer los cambios de la rama B con **git merge B**.
+2. Me ubico en la rama A y hago merge para traer los cambios de la rama B con **git merge B**.
 
     ![02](./images/7.2.png)
 
