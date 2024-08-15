@@ -39,7 +39,7 @@
 3. Me ubico en la rama A y hago merge para traer los cambios de la rama B con **git merge B**.
 
     ![02](./images/7.2.png)
-    ![02](./images/8.png)
+    ![02](./images/08.png)
 
 ## Actividad 5 - Integrar SOLO el commit con nombre "FIX: issue 2" de la rama hotfix/main en la rama A
 
