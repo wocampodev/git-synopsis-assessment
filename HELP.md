@@ -27,7 +27,9 @@
 9. Preparar el código en la rama principal. ![09](./images/09.png)
 
  9.1 se crea una etiqueta para el nuevo release usando git tag
+
  9.2 se su la etiqueta a la repo
+ 
  9.3 se publica en GIthub a traves de la interfaz web.
 
 10.  Ejemplique el uso de git para devolver un fichero del staging area al estado anterior: se usaría el git restore para poder   eliminar el archivo del staging area, manteniendo los cambios en el directorio de trabajo.
