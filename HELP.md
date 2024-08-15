@@ -40,6 +40,15 @@ Luego , para comprobar si toma en cuenta estos archivos hacemos un "git status" 
 
 Seguidamente, creamos un fichero de texto como manera de cambio y diferentes a la rama "A", esta vez utilizare el comando "echo" para tener algo dentro de este texto, de forma más rápida. A cotninuación:
 
-  ![12](./images/12.png)
+   ![12](./images/12.png)
+
+Luego, adiciono mi cambios al staggin area con add y el commit correspondiente de mis cambios  que realice en la rama B (agregue imagenes, modifiwue una letra y cree un fichero). 
+
+   ![13](./images/13.png)
+
+Por último, hacemos un merge desde Git para unir los cambios de la rama B a la rama A, para eso volvemos ala rama A y hacemos "merge", a continuación: 
+
+   ![14](./images/14.png)
+
 
     ...
