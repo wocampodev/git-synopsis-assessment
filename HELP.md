@@ -1,4 +1,4 @@
-# Solución
+# Solución - JoseV
 
 ## Actividad 1
 1. Genere un fork desde el repositorio 'git-synopsis-assessment' hacia mi cuenta de github
@@ -17,6 +17,48 @@
 
 ## Actividad 2
 
-2. Hice Y
+1. Como el directorio no cuenta con un archivo '.gitignore' , agrege uno
 
-    ...
+2. 
+
+3. 
+
+## Actividad 3
+
+1. 
+
+2. 
+
+3. 
+
+## Actividad 4
+
+1. 
+
+2. 
+
+3. 
+
+## Actividad 5
+
+1. 
+
+2. 
+
+3. 
+
+## Actividad 6
+
+1. 
+
+2. 
+
+3. 
+
+## Actividad 7
+
+1. 
+
+2. 
+
+3. 
