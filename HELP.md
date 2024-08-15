@@ -95,5 +95,12 @@
 
  ![image](https://github.com/user-attachments/assets/9e757793-5ef4-442f-b754-8e5b89fabdba)
 
+ ## Ejemplifique el uso de git para regresar en el tiempo hacia un commit anterior en la rama A de su repositorio remoto propio.
+
+### Se desea regresar al commit 24f0ad6 (con el mensaje "FIX: issue 2"), cuando ya se tenga el hash del commit al que deseas regresar, se usa el comando reset, que el repositorio local vuelva al estado del commit 24f0ad6, lo malo que el comando “hard” borra los commits posteriores. Por último el comando “git push origin A --force” forzará la actualización de la rama A en el repositorio remoto para que coincida con la versión local que ahora apunta al commit 24f0ad6.
+
+ ![image](https://github.com/user-attachments/assets/8a7b407c-81de-4e12-a40c-db4e9ed081b0)
+
+
 
 
