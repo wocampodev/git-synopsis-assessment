@@ -33,3 +33,21 @@ git add carpeta2
     ![5](images/5.png)
     evidencia 
     ![5.1](images/5.1.png)
+
+6. Hice crear una nueva rama A y B con que guarde cambios en A y realize cambios en B con el fin de traes los cambios de la rama B a la Rama A
+git checkout ramaA
+git branch ramaB
+git add .
+git commit -m "cambios"
+git checkout ramaB
+modifique en el main print("Hello")
+git add .
+git commit -m "Cambios B"
+git checkout ramaA
+git merge ramaB
+
+
+    evidencia 
+    ![6](images/6.png)
+    
+7. Hice crear una nueva rama A y B con que guarde cambios en A y realize cambios en B con el fin de traes los cambios de la rama B a la Rama A
