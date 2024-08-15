@@ -102,6 +102,10 @@
 ![alt text](images/image-03.png)
 # Ejemplifique el uso de git para la generación y publicación de un **nuevo release (versión)** de su código.
 
+*Creamos nuestro nuevo tag `git tag -a v1.0.0`*
+
+![alt text](image.png)
+
 ## Extras
 
 # Ejemplique el uso de git para devolver un fichero del **staging area** al estado anterior.
