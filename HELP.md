@@ -50,7 +50,7 @@
 
 ## Actividad 5
 
-1. 
+1. Primero cambio a la rama 'hotfix/main' para encontrar el commit con el mensaje "FIX: issue 2"
 
 2. 
 
