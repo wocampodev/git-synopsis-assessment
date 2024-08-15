@@ -2,7 +2,7 @@
 
 ## Actividad 1 - Genere una nueva rama A en base a main y agregar los ficheros que considere necesarios. (.js | .ts | .java | .cs | .html | etc)
 
-1. Me aseguro de esta el rama **main** y luego creo un nueva rama llamada A.
+1. Me aseguro de estar el rama **main** y luego creo un nueva rama llamada A con **git checkout -b A**.
 
     ![01](./images/01.png)
 
