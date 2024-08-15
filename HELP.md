@@ -11,9 +11,9 @@
 4. Agrege una carpeta src en el directorio principal y dentro de ella agrege 3 archivos('index.html' , 'styles.css', 'script.js')
     ![pruebaActividad01-paso4-1](./images/actividad-01/paso-4/01.PNG)
 5. Agrege contenido a los 3 archivos, y posteriormente realice un commit y un push a la rama-A
-    ![pruebaActividad01-paso5-1](./images/actividad-01/paso-4/01.PNG)
-    ![pruebaActividad01-paso5-2](./images/actividad-01/paso-4/02.PNG)
-    ![pruebaActividad01-paso5-3](./images/actividad-01/paso-4/03.PNG)
+    ![pruebaActividad01-paso5-1](./images/actividad-01/paso-5/01.PNG)
+    ![pruebaActividad01-paso5-2](./images/actividad-01/paso-5/02.PNG)
+    ![pruebaActividad01-paso5-3](./images/actividad-01/paso-5/03.PNG)
 
 ## Actividad 2
 
