@@ -110,7 +110,17 @@
 
 # Ejemplique el uso de git para devolver un fichero del **staging area** al estado anterior.
 
+*Primero creamos el archivo y luego agregamos al staged con `git add index.js` luego con `git restore --staged index.js` se devuelve*
+
+![alt text](image-1.png)
+
 # Ejemplifique el uso de git para regresar en el tiempo hacia un **commit anterior en la rama A** de su repositorio remoto propio.
 
+*Nos movemos a la rama que queremos regresar el commit, listamos con `git log`*
 
+![alt text](image-2.png)
+
+*Identificamos el commit que queremos volver atrás en este caso elijo commit 4361ce y aplicamos con `git reset –hard 4361ce`*
+
+![alt text](image-3.png)
 # Investigar sobre **git reset**
