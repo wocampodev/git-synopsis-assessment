@@ -78,27 +78,23 @@
 
 ## Actividad 7
 
-1. 
-
-2. 
-
-3. 
+1. Para crear un tag para el lanzamiento se pueden hacer de dos formas. ya sea usando el comando 'git tag -a v1.0.0 -m', o Ingresando al repositorio por la pagina web/App de github y seleccionando la opcion de tag, crear nuevo tag y rellenar los datos
+    ![pruebaActividad07-paso1-1](./images/actividad-07/paso-1/01.PNG)
+    ![pruebaActividad07-paso1-2](./images/actividad-07/paso-1/02.PNG)
+    ![pruebaActividad07-paso1-3](./images/actividad-07/paso-1/03.PNG)
+    ![pruebaActividad07-paso1-4](./images/actividad-07/paso-1/04.PNG)
 
 
 # Actividades extras
 
 ## Actividad 1
 
-1. 
-
-2. 
-
-3. 
+1. Cuando modifico mi archivo main.py y lo agrego al stagging area(zona previa al commit), pero aun no le hago el commit, puedo devolver el archivo a su estado anterior (fuera del staggin area), usando el comando 'git restore --staged', esto devolvera mi archivo a su estado anterior pero mantendra mis cambios en mis archivos locales
+    ![pruebaActividad-xtra01-paso1-1](./images/xtra-01/paso-1/01.PNG)
+    ![pruebaActividad-xtra01-paso1-2](./images/xtra-01/paso-1/02.PNG)
 
 ## Actividad 2
 
 1. 
 
-2. 
-
-3. 
+ 
