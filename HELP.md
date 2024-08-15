@@ -69,10 +69,6 @@
 
 ## Extra 2
 
-1. Verifiqué los commits en la rama A
+1. Verifiqué los commits en la rama A y si quiero regresar a un commit anterio uso **git reset**
 
     ![01](./images/14.png)
-
-2. Supongamos que quieres regresar al commit y git reset --soft xxxxyyy
-
-    ![02](./images/15.png)
