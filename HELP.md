@@ -50,7 +50,15 @@ Validamos la rama-B anteriormente creada con git branch -l.
 y con git merge rama-a realizamos la union de ambas ramas a y b.
 ![16](images/16.png)
 12. Ahora realizamos el commit con git commit -m "FIX:issue 2" para realizar el commit de la rama A con el nombre indicado. en la rama hotfix/main.
-
+![17](images/17.png)
+luego realizar el push
+![18](images/18.png)
+13. Para realizar cambios sinq eu se guarden de manera simultanea sin generar commit en el historia de cambios se utiliza el comando git stash.
+ Realizamos una modificacion en un archivo y realizamos en git add en la rama-a y posterior utilizamos "git stash", depues nos dirigimos a la rama-B , realizamos cambios y un "git add", regresamos a la rama-a y nos e visualizaran los cambios realizados en la rama-B al finaliza utiliozamos "git stash pop"
+lo cual guardara los cambios en la rama-a.
+![19](images/19.png)
+14. Para generar y publicar un nuevoi realise (version) utilizamos "git tag -a [V*.*.]".
+15. Para devolver un fichero del staging area al estado anterior. Podemos utilizar "git restore" lo cual permite regresar el archivo enviado sin perder los cambios en el area de trabajo.
 
 
 
