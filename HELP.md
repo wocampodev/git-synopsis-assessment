@@ -32,6 +32,8 @@ para comprobar si toma en cuenta estos archivos hacemos un "git status" si exist
    ![08](./images/08.png)
    ![09](./images/09.png)
 
-   
+3. Para poder crear las carpetas utilizamos "mkdir" y revisando documentación, se nos indica que Git no rastrea carpetas vacias por defecto, por esta razón existe un sencilla técnica que es crear carpetas de tipo  ".gitkeep" dentro de las carpetas vacias. De esta manera puedan ser tomadas en cuenta, a continuación: 
+    ![10](./images/09.png)
+
 
     ...
