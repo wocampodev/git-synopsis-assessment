@@ -86,3 +86,16 @@ Luego, agregamos el ficheroa al Stagging area, pero si decidimos no inlcuir el f
 
 ![26](./images/26.png)
 
+
+2. Para poder regresa a un commit anterior podemos utilizar el "git reset". Este comando nos permite movernos a la rama commit deseado y podemos elegir entren mantener o descartar los cambios en el directorio trabajo y el staggin area.
+
+Para poder usar, primero, debemos obtener el hash o identificador del commit deseaso. 
+
+Seguidamente, mediante este comando podemos elegir entre:
+
+- "git reset --soft <id>, si quereemos mantener los cambios en el Staging area y el directorio de trabajo.
+- "git reset --mixed <id>, si queremos mantener los cambios en el directorio de trabajo, pero quita los cambios del staging area.
+
+- "git reset --hard <id>, si quereemos descartar todos los cambios del staging area y el directorio de trabajo.
+
+![27](./images/27.png)
