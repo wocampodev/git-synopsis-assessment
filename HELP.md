@@ -25,6 +25,9 @@
 
 ## Actividad 3:  Generar 2 carpetas cualquiera sin contenido que sean incluidas en el historial de cambios.
 
+### Se crean 2 carpetas vacías con el comando mkdir, pero al momento de querer incluirlas en el historial de cambios, 
+### git no permite directorios vacíos, para esto le añadimos los archivos .gitkeep para que los cuente para el historial de cambios
+
 ![image](https://github.com/user-attachments/assets/96cf8309-eb4c-4dd8-8808-05c024374d5b)
 
 ![image](https://github.com/user-attachments/assets/62b49374-b80d-4c6d-b6f3-febd2b89e1fc)
