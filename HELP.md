@@ -72,3 +72,15 @@
 
 2. Finalizando con el git tag, se subio la version actual al repositorio remoto: 
     ![02](./images/RemotoTag.png)
+
+# Extras
+
+## Actividad 1
+1. Para esta actividad extra, primero modifique mi "main.js" de la rama "a" modificando los textos, ademas de usar el git add con las nuevas modificaciones:
+    ![01](./images/ExtraRestore1.png)
+
+2. Para regresar el archivo antes de ser modificado, utilice el git restore, permitiendo volver el "main.js" a su version anterior: 
+    ![02](./images/ExtraRestore2.png)
+
+
+## Actividad 2
