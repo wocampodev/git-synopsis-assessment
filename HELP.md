@@ -19,9 +19,8 @@
 
 1. Como el directorio no cuenta con un archivo '.gitignore' , agrege uno
     ![pruebaActividad02-paso1-1](./images/actividad-02/paso-1/01.PNG)
-2. 
-
-3. 
+2. Agrege las lineas '/bin/', '/node_modules/', '/target/' al .gitignore para que que ignore los directorios /bin, /node_modules y /target en cualquier parte del proyecto. Tambien, realize el respectivo commit y push a la rama-A
+    ![pruebaActividad02-paso2-1](./images/actividad-02/paso-2/01.PNG)
 
 ## Actividad 3
 
