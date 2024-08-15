@@ -35,8 +35,8 @@
     
 ## Actividad 4
 
-1. 
-
+1. Crea una nueva rama 'rama-B' a partir de la rama 'rama-A' 
+    ![pruebaActividad04-paso1-1](./images/actividad-04/paso-1/01.PNG)
 2. 
 
 3. 
@@ -58,6 +58,25 @@
 3. 
 
 ## Actividad 7
+
+1. 
+
+2. 
+
+3. 
+
+
+# Actividades extras
+
+## Actividad 1
+
+1. 
+
+2. 
+
+3. 
+
+## Actividad 2
 
 1. 
 
