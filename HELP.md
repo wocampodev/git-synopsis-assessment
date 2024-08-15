@@ -85,3 +85,23 @@ Luego,  creamos el tag y hacemos el push al repositorio.
     ![25](./images/25.png)
 
 
+## EXTRAS
+
+1. Para delvolver un fichero del staggin area al estado anterior podemos usar "git restore". Para este ejemplo crearemos un fichero de ejemplo "Extra.txt".
+Luego, agregamos el ficheroa al Stagging area, pero si decidimos no inlcuir el fichero en el proximo commit. Podemos devolverlo al estado anterio con "git restor" con "--stage" nos indica que este archivo sera separado y dejado atras en el directorio sin cambios. 
+
+![26](./images/26.png)
+
+
+2. Para poder regresa a un commit anterior podemos utilizar el "git reset". Este comando nos permite movernos a la rama commit deseado y podemos elegir entren mantener o descartar los cambios en el directorio trabajo y el staggin area.
+
+Para poder usar, primero, debemos obtener el hash o identificador del commit deseaso. 
+
+Seguidamente, mediante este comando podemos elegir entre:
+
+- "git reset --soft <id>, si quereemos mantener los cambios en el Staging area y el directorio de trabajo.
+- "git reset --mixed <id>, si queremos mantener los cambios en el directorio de trabajo, pero quita los cambios del staging area.
+
+- "git reset --hard <id>, si quereemos descartar todos los cambios del staging area y el directorio de trabajo.
+
+![27](./images/27.png)
