@@ -45,4 +45,13 @@
 
     ![12](./images/FORK15.png)
     ![12](./images/FORK16.png)
+
+## EXTRAS
+
+1. ACTIVIDAD 1Para regresar al estado anterior despues de aver dado git add . reset.js en mi caso un archivo reset.js que añadi, se utiliza el comando git reset reset.js(nombre del archivo), en donde se volverá al estado anterior a aver guardado en stage el archivo seleccionado.
+
+2. Para regresar en el tiempo hacia un commit anterior en la rama A de su propio repositorio remoto debo establecerme en la rama A con git checkout y buscar git log para ver los cambios realizados, a los cuales podré volver utilizando su codigo hash en el comando git 
+
+    ![17](./images/FORK17.png)
+
     ...
