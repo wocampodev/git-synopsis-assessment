@@ -63,11 +63,18 @@
 
 ## Actividad 6
 
-1. 
+1. Ingreso a la rama-A, y modifico en archivo HELP.md, en el paso 1 y modifico el archivo main.py cambianod el print de 'mundo' por mi nombre y agregando un print 'te saluda'. Luego de realizar estos cambios uso el comando('git stash') para guardar los cambios en un lugar temporal que no se rastree en el historial de commits
+    ![pruebaActividad06-paso1-1](./images/actividad-06/paso-1/01.PNG)
 
-2. 
+2. Ingreso a la rama-B y aplico los cambios guardado en el lugar temporal usando el comando 'git stash apply'. Ahora vuelvo a modificar el archivo HELP.mp en el paso 1 y paso 2, y agrego un print('desde la rama-B') en el main.py, para luego volver a guardar estos cambios en un lugar temporal con 'git stash'
+    ![pruebaActividad06-paso2-1](./images/actividad-06/paso-2/01.PNG)
+    ![pruebaActividad06-paso2-2](./images/actividad-06/paso-2/02.PNG)
+    ![pruebaActividad06-paso2-3](./images/actividad-06/paso-2/03.PNG)
+    ![pruebaActividad06-paso2-4](./images/actividad-06/paso-2/04.PNG)
 
-3. 
+3. Ingreso a la rama-A y uso el comando 'git stash apply' para aplicar los cambios hechos en la rama-B, y finalmente uso el comando 'git stash drop' para limpiar el 'stash'
+    ![pruebaActividad06-paso3-1](./images/actividad-06/paso-3/01.PNG)
+    ![pruebaActividad06-paso3-2](./images/actividad-06/paso-3/02.PNG)
 
 ## Actividad 7
 
