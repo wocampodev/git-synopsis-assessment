@@ -42,6 +42,10 @@
 
 ## Actividad 5: Integrar SOLO el commit con nombre "FIX: issue 2" de la rama hotfix/main en la rama A
 
+###  Se utilizo el comando git cherry-pick para integrar el commit específico de la rama "hotfix/main", con git log Identificamos el hash del commit que quieres integrar. “Hubo un problema con el archivo main.py pues tenia caracteres erróneos  tales como “>>>>>>>>>” Se soluciono
+### borrándolos llas líneas erróneas, se hizo un git add main.py y después un git cherry-pick-continue
+
+
 ![image](https://github.com/user-attachments/assets/f0e2746c-a574-431b-a0fe-b3e154885f1d)
 
 ![image](https://github.com/user-attachments/assets/b1e3c266-b293-4aca-bfe5-e155461fb088)
