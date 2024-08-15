@@ -49,5 +49,22 @@ git merge ramaB
 
     evidencia 
     ![6](images/6.png)
-    
-7. Hice crear una nueva rama A y B con que guarde cambios en A y realize cambios en B con el fin de traes los cambios de la rama B a la Rama A
+
+7. Hice la preparacion de la version x.y.z con los siguientes comandos:
+git add 
+git commit -m "Preparacion de la version x.y.z"
+git tag -a vX.Y.Z -m "Release versión X.Y.Z"
+
+ evidencia 
+    ![7](images/7.png)
+
+
+    Extras
+1. Se realizo una creacion de un fichero archivo.txt
+echo "Nuevas líneas de texto" >> archivo.txt
+    git add archivo.txt
+    git status
+    evidencia 
+    ![1](images/8.png)
+
+2.
