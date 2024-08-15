@@ -25,3 +25,7 @@
 3. Las carpetas son consideradas a pesar de no tener un archivo, solo tendrá el archivo gitkeep
 
     ![09](./images/09.png)
+
+## Actividad 4 - se puede visualizar en la rama A y B
+
+## Actividad 5 - se puede visualizar en la rama hotfix/main
