@@ -64,6 +64,8 @@
 
 ## Actividad 7: Ejemplifique el uso de git para la generación y publicación de un nuevo release (versión) de su código
 
+### Creamos un git tag llamada v1.0.0.0, verificamos el tag esta creado con el comando, “git tag”, después se hace un push para su creación el repositorio remoto
+
 ![image](https://github.com/user-attachments/assets/c7f92e1b-9116-4bdb-a55a-8e6c0830aa2e)
 
 
