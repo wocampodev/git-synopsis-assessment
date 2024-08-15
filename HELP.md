@@ -30,3 +30,12 @@
     ![02](./images/GitKeep.png)
 
 ## Actividad 4
+
+1. Se genero la rama "b", y la seleccionamos.
+    ![01](./images/BranchB.png)
+
+2. La nueva modificación dentro de esta rama será dentro del "main.js", el cual presenta un console.log extra a diferencia de la rama "a":
+    ![02](./images/ModificacionMain.png)
+
+3. Se realizo el commit de la nueva modificación del "main.js" para poder pasarnos otra vez a la rama "a" para realizar la integración:
+    ![03](./images/ComminMainModificado.png)
