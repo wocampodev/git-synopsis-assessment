@@ -5,6 +5,8 @@
 
 ## Actividad 1: Genere una nueva rama A en base a main y agregar los ficheros que considere necesarios. (.js | .ts | .java | .cs | .html | etc).
 
+##  Creamos la Rama “A” y después los ficheros con el comando echo, se crearon 3 archivos
+
 ![image](https://github.com/user-attachments/assets/62cc6605-11de-4700-99f6-0045e68c8dd1)
 
 ![image](https://github.com/user-attachments/assets/4def7524-4cae-477a-af93-64b688bdf853)
