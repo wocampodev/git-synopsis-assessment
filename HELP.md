@@ -77,6 +77,8 @@
 
 ## Ejemplique el uso de git para devolver un fichero del staging area al estado anterior.
 
+### Se crearon 2 archivos txt y se le agregaron contenido, se les hizo un git add y un commit para estar en el repo local, así mismo después a los archivos se le agregaron mas contenido, y se le puso un git add para que estén un el staging área. Despues para devolver el archivo 1 al estado anterior se usó el comando “git restore –staged” y para deshacer también los cambios realizados en el archivo1 se utilizó “git restore” 
+
 ![image](https://github.com/user-attachments/assets/c9070aa3-a8b3-42c5-a497-e2787718f248)
 
 ![image](https://github.com/user-attachments/assets/aa3085a1-19c8-47cc-95f3-146c74d45345)
