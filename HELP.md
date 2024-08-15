@@ -2,7 +2,7 @@
 
 
 
-## SEGUNDO CAMBIO TIENE QUE APARECER 
+## PASO A PASO EL PROCEDIMIENTO
 
 
 ## Actividad 1
@@ -22,6 +22,16 @@ Seguidamente, creamos la nueva rama llamada "A"  y verificamos la creación y qu
 Pot último, cree los ficheros "script.js", "styles.css" y el "index.html":
     ![05](./images/05.png)
 
-2. Primeramente, 
+2. Primeramente, para poder restringir del historial de cambios a carpetas especificas, debems necesitar un archivo adicional ".gitignore". Debemos crear este fichero y luego dentro escribir lo que queresmos ignorar, a continuación:
+
+    ![06](./images/06.png)
+    ![07](./images/07.png)
+
+para comprobar si toma en cuenta estos archivos hacemos un "git status" si existe algun archivo con esa ruta. Segun la documentación, si no se ve en el indice de Git, es buena practica y para inconvenientes futuros, borrar el indice de Git con : 
+
+   ![08](./images/08.png)
+   ![09](./images/09.png)
+
+   
 
     ...
