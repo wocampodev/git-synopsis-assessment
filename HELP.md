@@ -3,6 +3,7 @@
 ## Actividad 1
 
 1. Hice crear una rama feature/joelhuaman y agregue el archivo node_modules/main-s6az0.js a mi rama.
+codigo:
 git branch -v
 git branch feature/joelhuaman
 git add node_modules/main-s6az0.js
@@ -14,13 +15,25 @@ git add node_modules/main-s6az0.js
     ![2](images/2.png)
 
 3. Hice cree dos carpetas con los nombres carpeta 1 y carpeta 2,lo agregue los cambios a la rama.
-
+codigo:
 mkdir carpeta1 carpeta2
 git add carpeta1 
 git add carpeta2
 
     ![3](images/3.png)
 4. Hice cree una nueva rama feature/joelhuaman2 realize cambios en la archivo main-s6az0.js y luego unir a la rama feature/joelhuaman 
+codigo:
+git checkout feature/joelhuaman
+git add .
+git commit -m "Cambios: manin-s6azo.js"
+
+git branch feature/joelhuaman2
+git checkout feature/joelhuaman2
+git add .
+git commit -m "Cambio: manin-s6azo.js" 
+
+git checkout feature/joelhuaman
+git git merge feature/joelhuaman2
 
     ![4](images/4.1.png)
     ![4](images/4.2.png)
@@ -67,4 +80,9 @@ echo "Nuevas líneas de texto" >> archivo.txt
     evidencia 
     ![1](images/8.png)
 
-2.
+2.se realizo el reseteo en la rama A 
+git checkout ramaA
+git reset 
+
+evidencia 
+    ![2](images/9.png)
