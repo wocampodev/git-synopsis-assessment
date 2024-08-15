@@ -33,7 +33,13 @@ Luego , para comprobar si toma en cuenta estos archivos hacemos un "git status" 
    ![09](./images/09.png)
 
 3. Para poder crear las carpetas utilizamos "mkdir" y revisando documentación, se nos indica que Git no rastrea carpetas vacias por defecto, por esta razón existe un sencilla técnica que es crear carpetas de tipo  ".gitkeep" dentro de las carpetas vacias. De esta manera puedan ser tomadas en cuenta, a continuación: 
-    ![10](./images/09.png)
+    ![10](./images/10.png)
 
+4. Creamos nuestra nueva rama "B"  con el comando "-b" y nos aseguramos que nos encontramos dentro de la nueva rama. A continuación:
+  ![11](./images/11.png)
+
+Seguidamente, creamos un fichero de texto como manera de cambio y diferentes a la rama "A", esta vez utilizare el comando "echo" para tener algo dentro de este texto, de forma más rápida. A cotninuación:
+
+  ![12](./images/12.png)
 
     ...
