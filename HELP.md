@@ -2,10 +2,31 @@
 
 ## Actividad 1
 
-1. Hice X
+1. EL primer paso a realizar fue clonar el repositorio remoto a mi repositorio local:
+    ![01](./images/GitClone.png)
 
-    ![01](./images/01.png)
+2. Luego cree la Rama "a" y el main.js, que estará dentro de la rama misma rama:
 
-2. Hice Y
+    ![02](./images/BranchA.png)
 
-    ...
+3. Por ultimo realice el commit y push para enviar la captura del main.js al repositorio remoto:
+
+    ![03](./images/CommitMain.png)
+
+## Actividad 2
+
+1. En primer lugar agregue el ".gitignore", el cual es utilizado para restringir del historial de cambios:
+    ![01](./images/GitIgnore.png)
+
+2. Luego, defini que carpetas seran ignoradas del historial de cambios, estas son las carpetas "bin", "node_modules" y "target"
+    ![02](./images/RestringirCambios.png)
+
+## Actividad 3
+
+1. En este caso, se genero las carpetas "Carpeta1" y "Carpeta2", las cuales no tienen ningun contenido.
+    ![01](./images/CarpetasVacias.png)
+
+2. Para que ambas carpetas vacias puedan ser incluidas dentro del historial de cambias es necesario aplicar el .gitkeep, en estas carpetas, para que puedan ser trackeadas:
+    ![02](./images/GitKeep.png)
+
+## Actividad 4
