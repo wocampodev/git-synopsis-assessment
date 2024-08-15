@@ -5,17 +5,18 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    background: linear-gradient(135deg, #f0f1f2, #e2e3e5);
 }
 
 .container {
     text-align: center;
-    background: #ffffff;
+    background: #fff2ff;
     padding: 30px 40px;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
 }
+
 
 .container:hover {
     transform: translateY(-10px);

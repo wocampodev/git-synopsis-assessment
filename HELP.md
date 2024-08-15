@@ -37,7 +37,7 @@
 
 1. Crea una nueva rama 'rama-B' a partir de la rama 'rama-A' 
     ![pruebaActividad04-paso1-1](./images/actividad-04/paso-1/01.PNG)
-2. 
+2. Primero, modifique el archivo HELP.md, agregando un h1('# Actividades principales') antes de los h2 de las actividades del 1 al 7, asi como tambien agrege en la parte de abajo un h1('# Actividades extras') y sus 2 actividades h2. Despues, le cambie el nombre a una de las carpetas vacias que cree con anterioridad(Valde -> Rrama). Para luego, cambiar el 'background' de body y .container en el archivo src/styles.css. Finalmente, hice un commit y push a la rama-B.
 
 3. 
 
