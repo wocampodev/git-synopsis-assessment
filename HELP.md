@@ -27,8 +27,9 @@
 1. Cree las dos nuevas carpetas vacias en el directorio, usando el terminal y el comando 'mkdir'
     ![pruebaActividad03-paso1-1](./images/actividad-03/paso-1/01.PNG)
     ![pruebaActividad03-paso1-2](./images/actividad-03/paso-1/02.PNG)
-2. Para evitar la limitacion de Git de no gestionar carpetas vacias, cree un archivo vacio '.gitkeep' dentro de ambas carpetas
-
+2. Para evitar la limitacion de Git de no gestionar carpetas vacias, cree un archivo vacio '.gitkeep' dentro de ambas carpetas, y finalmente realice el commit y push
+    ![pruebaActividad03-paso2-1](./images/actividad-03/paso-2/01.PNG)
+    ![pruebaActividad03-paso2-2](./images/actividad-03/paso-2/02.PNG)
 ## Actividad 4
 
 1. 
