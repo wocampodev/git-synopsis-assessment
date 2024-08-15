@@ -78,4 +78,10 @@ Por último regresamos A, donde aplicamos con "git stash pop" lo que se guardo t
     ![22](./images/22.png)
     ![23](./images/23.png)
 
+7. Para crear una versión debemos estar en la rama principal y  actualizada, a continuación:
+    ![24](./images/24.png)
+
+Luego,  creamos el tag y hacemos el push al repositorio.
+    ![25](./images/25.png)
+
 
