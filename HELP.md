@@ -39,3 +39,7 @@
 
 3. Se realizo el commit de la nueva modificación del "main.js" para poder pasarnos otra vez a la rama "a" para realizar la integración:
     ![03](./images/ComminMainModificado.png)
+
+4. Una vez dentro de la rama "a" se realiza el merge con la rama "b", el cual permite agregar las nuevas modificaciones realizadas en la rama "b" a la rama "a":
+    ![04](./images/MergeBranch.png)
+
