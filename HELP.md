@@ -18,7 +18,7 @@
 ## Actividad 2
 
 1. Como el directorio no cuenta con un archivo '.gitignore' , agrege uno
-
+    ![pruebaActividad02-paso1-1](./images/actividad-02/paso-1/01.PNG)
 2. 
 
 3. 
