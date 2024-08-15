@@ -43,3 +43,10 @@
 4. Una vez dentro de la rama "a" se realiza el merge con la rama "b", el cual permite agregar las nuevas modificaciones realizadas en la rama "b" a la rama "a":
     ![04](./images/MergeBranch.png)
 
+## Actividad 5
+
+1. Se genero la rama "hotfix/main", en la cual realice una modificacion en la "main.js", con el fin de conseugir el log del commit de modificación:
+    ![01](./images/CommitHotFix.png)
+
+2. Una vez ya obtenido el log del commit del "hotfix/main", me traslade a la rama "a", realizando el cherry-pick con la finalidad de integrar solamente el commit del hotfix a mi rama "a":
+    ![02](./images/CherryPick.png)
