@@ -29,3 +29,12 @@
 ## Actividad 4 - se puede visualizar en la rama A y B
 
 ## Actividad 5 - se puede visualizar en la rama hotfix/main
+
+## Actividad 6 - se puede visualizar en la rama A y B
+
+## Actividad 7
+
+1. Nos dirigimos al directorio main para generar una version release del codigo
+2. Ejecutamos el comando pull para que desde la rama en la que trabajamos generando y publicando este actualizada con los cambios en el repositorio remoto.
+
+3. Creamos un tag para que sea mas facil de identificar la nueva version del codigo, en este caso el nombre del tag es "v1cod"
