@@ -36,6 +36,8 @@
 
 ## Actividad 4: Generar otra rama B para realizar nuevas modificaciones y luego integrar estos en la rama A.
 
+### Creamos otra rama llamada “B” y creamos un archivo script_B, después ingresamos a la rama A y ponemos el comando git merge B, para que los cambios de B pasen a la rama A
+
 ![image](https://github.com/user-attachments/assets/76dc810e-b3d3-485b-8a81-6254137454df)
 
 ## Actividad 5: Integrar SOLO el commit con nombre "FIX: issue 2" de la rama hotfix/main en la rama A
