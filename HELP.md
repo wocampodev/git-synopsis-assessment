@@ -26,17 +26,17 @@
 
 1. Creo dos carpetas con mkdir, con touch creo los ficheros .gitkeep respetando su ubicación y con git status me aseguro que sean visibles en el historial.
 
-    ![01](./images/5.png)
+    ![01](./images/05.png)
 
 ## Actividad 4 - Generar otra rama B para realizar nuevas modificaciones y luego integrar estos en la rama A
 
 1. Creo la rama B, luego creo un carpeta con mkdir y guardo los cambios con un commit.
 
     ![01](./images/06.png)
-    ![01](./images/07.png)
     ![01](./images/7.1.png)
+    ![01](./images/07.png)
 
-2. Me ubico en la rama A y hago merge para traer los cambios de la rama B con **git merge B**.
+3. Me ubico en la rama A y hago merge para traer los cambios de la rama B con **git merge B**.
 
     ![02](./images/7.2.png)
     ![02](./images/8.png)
