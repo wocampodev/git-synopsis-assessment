@@ -38,13 +38,15 @@
 1. Crea una nueva rama 'rama-B' a partir de la rama 'rama-A' 
     ![pruebaActividad04-paso1-1](./images/actividad-04/paso-1/01.PNG)
 2. Primero, modifique el archivo HELP.md, agregando un h1('# Actividades principales') antes de los h2 de las actividades del 1 al 7, asi como tambien agrege en la parte de abajo un h1('# Actividades extras') y sus 2 actividades h2. Despues, le cambie el nombre a una de las carpetas vacias que cree con anterioridad(Valde -> Rrama). Para luego, cambiar el 'background' de body y .container en el archivo src/styles.css. Finalmente, hice un commit y push a la rama-B.
-    ![pruebaActividad04-paso1-1](./images/actividad-04/paso-2/01.PNG)
-    ![pruebaActividad04-paso1-1](./images/actividad-04/paso-2/02.PNG)
-    ![pruebaActividad04-paso1-1](./images/actividad-04/paso-2/03.PNG)
-    ![pruebaActividad04-paso1-1](./images/actividad-04/paso-2/04.PNG)
-    ![pruebaActividad04-paso1-1](./images/actividad-04/paso-2/05.PNG)
+    ![pruebaActividad04-paso2-1](./images/actividad-04/paso-2/01.PNG)
+    ![pruebaActividad04-paso2-2](./images/actividad-04/paso-2/02.PNG)
+    ![pruebaActividad04-paso2-3](./images/actividad-04/paso-2/03.PNG)
+    ![pruebaActividad04-paso2-4](./images/actividad-04/paso-2/04.PNG)
+    ![pruebaActividad04-paso2-5](./images/actividad-04/paso-2/05.PNG)
 
-3. 
+3. Cambie a la rama-A ('git checkout') y luego integre los cambios de la 'rama-B' a la 'rama-A' ('git merge')
+    ![pruebaActividad04-paso3-1](./images/actividad-04/paso-3/01.PNG)
+    ![pruebaActividad04-paso3-2](./images/actividad-04/paso-3/02.PNG)
 
 ## Actividad 5
 
