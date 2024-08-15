@@ -13,9 +13,14 @@
     ![02](./images/02.png)
 
 Luego, iniciamos con la actividad 1 : 
+Para crear una nueva rama debemos estar asegurarnos de estar en la rama principal y que este actualizada:
+    ![03](./images/03.png)
 
+Seguidamente, creamos la nueva rama llamada "A"  y verificamos la creación y que estamos usando esta nueva rama:
+    ![04](./images/04.png)
 
-
+Pot último, cree los ficheros "script.js", "styles.css" y el "index.html":
+    ![05](./images/05.png)
 
 2. Hice Y
 
