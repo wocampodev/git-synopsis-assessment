@@ -57,7 +57,9 @@
     ![pruebaActividad05-paso2-1](./images/actividad-05/paso-2/01.PNG)
     ![pruebaActividad05-paso2-2](./images/actividad-05/paso-2/02.PNG)
 
-3. 
+3. Al ver que el conflicto es porque el archivo main.py ha sido eliminado de mi rama-A, opto por restaurar el archivo desde el commit usando el comando ('git restore --source=f5b37d2 --staged main.py', 'git restore --source=f5b37d2 main.py'), despues al ver que me sale el mensaje de que los conflictos han sido resueltos, procedo a usar el comando ('git cherry-pick --continue'), tras lo cual obtengo un mensaje de que el commit esta vacio, asi que uso el comando ('git commit --allow-empty') para proceder con el cherry-pick
+    ![pruebaActividad05-paso2-1](./images/actividad-05/paso-3/01.PNG)
+    ![pruebaActividad05-paso2-2](./images/actividad-05/paso-3/02.PNG)
 
 ## Actividad 6
 
