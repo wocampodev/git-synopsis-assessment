@@ -47,7 +47,8 @@ las carpetas a las que deseamos restringir los cambios
 ![14](images/14.png)
 Validamos la rama-B anteriormente creada con git branch -l.
 ![15](images/15.png)
-12. Ahora realizamos el commit con git commit -m "FIX:issue 2" para realizar el commit de la rama A con el nombre indicado.
+12. Ahora realizamos el commit con git commit -m "FIX:issue 2" para realizar el commit de la rama A con el nombre indicado. en la rama hotfix/main.
+
 
 
 
