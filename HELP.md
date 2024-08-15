@@ -68,7 +68,14 @@ Por último, comprobamos si existe algun conflicot otra vez y vemos si se agrego
     ![19](./images/19.png)
 
 
+6. Para poder ejemplificar cambios simultaneos en la rama A y B, in hacer commit, utilizamos el comaando "git stash" que guarda de forma temporal cambios. Primero en la rama A, hacemos un cambio o modificación, para luego addicionarlo al staggin area y luego palciar  "git stash" que lo gurada temporalmente. A continuación: 
+    ![20](./images/20.png)
+
+Después, de igual manera en B, modificamos y guardamos: 
+    ![21](./images/21.png)
+
+Por último regresamos A, donde aplicamos con "git stash pop" lo que se guardo temporalmente y de iguala manera en B. Esto permite hacer cambios sin hacer commits de forma simultanea en ambas ramas. 
+    ![22](./images/22.png)
+    ![23](./images/23.png)
 
 
-
-    ...
