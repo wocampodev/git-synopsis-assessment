@@ -1,0 +1,5 @@
+Hice “fork” presionando el botón en la parte superior derecha:
+He creado el fork en mi cuenta: 
+Inicializo git en mi pc, y clono la dirección:
+ 
+
