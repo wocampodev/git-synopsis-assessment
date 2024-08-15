@@ -26,6 +26,25 @@
 
 1. Ejemplique el uso de git para devolver un fichero del **staging area** al estado anterior.
 
+Eyme Aliaga:
+  El staging area es donde se comienza a trabajar, donde se haran ficheros o se modificaran o copiaran.
+  Para pasar a un estado anterior de un fichero se puede usar Git Remote o Git reset.
+    
+
 2. Ejemplifique el uso de git para regresar en el tiempo hacia un **commit anterior en la rama A** de su repositorio remoto propio.
 
     - Investigar sobre **git reset**
+
+      Para ello se necesitara realizar un 
+      git log ("para ver los cambios hechos")
+
+       dentro de esa respuesta buscaremos el hash(o numero del commit que nos interesa)
+     entonces usaremos el comando
+
+      git reset este se divide en tres 
+       
+        git --hard(este descartara todos los cambios que hemos hecho en el directorio y el staging area)
+        git --soft(este por su lado mantedra los cambios en ambos)
+        git --mixed(para este mientras que mantiene los cambios en el directorio, descartara los cambios en el staging area)
+
+        
