@@ -50,5 +50,25 @@ Por último, hacemos un merge desde Git para unir los cambios de la rama B a la 
 
    ![14](./images/14.png)
 
+5. Para poder agregar el commit FIX: issues 2 a nuestra rama A, primero ingresamoa la rama "hotfix/main", luego  mediante el comando log tenemos que identificar el hash del commmit, a continuación : 
+
+    ![15](./images/15.png)
+
+Luego, de saber el identificador ingresamos mediante el "cherry-pick" a ese identificador y vemos que una conflicto: 
+    ![16](./images/16.png)
+
+Seguidamente, ingresamos a nuestro fichero en conflicto y solucionamos co ayuda del IDE o manual combinado o borrando: 
+    ![17](./images/17.png)
+
+
+Luego, despues de solucionar podemos borrar el archivo: 
+    ![18](./images/18.png)
+
+Por último, comprobamos si existe algun conflicot otra vez y vemos si se agrego a nuestra rama A: 
+    ![19](./images/19.png)
+
+
+
+
 
     ...
