@@ -15,6 +15,8 @@
 
 ## Actividad 2: Restringir del historial de cambios a las carpetas /bin /node_modules y /target.
 
+### Creamos con el comando touch el archivo .gitignore y ponemos las carpetas que no van a estar en el historial de cambios
+
 ![image](https://github.com/user-attachments/assets/1e8ddc58-7dff-4d62-b962-02d8d8dd56c3)
 
 ![image](https://github.com/user-attachments/assets/c5e6f41c-ce5a-486a-96e2-d933fcc03888)
