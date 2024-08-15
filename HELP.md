@@ -50,3 +50,17 @@
 
 2. Una vez ya obtenido el log del commit del "hotfix/main", me traslade a la rama "a", realizando el cherry-pick con la finalidad de integrar solamente el commit del hotfix a mi rama "a":
     ![02](./images/CherryPick.png)
+
+## Actividad 6
+
+1. En el "main.js" se agrego un texto de prueba del stash para verificar si realmente realizaba un commit de manera local, al momento de ejecutarlo, nos mostro la versión anterior de la modificación:
+    ![01](./images/GitStashA1.png)
+
+2. De esta forma se realizo la copia de manera local, sin realizar un commit, y se llamo a la modificación dentro de mi rama "a" con el stash pop:
+    ![02](./images/GitStashA2.png)
+
+3. Por otro lado, en la rama B, se agrego "stash.js" con la finalidad de verificar si los cambios afectaban de la misma manera:
+    ![03](./images/GitStashB1.png)
+
+4. De la misma manera, se recupero los cambios realizados empleando el stash pop en la rama "b" sin generar commits en el historial de cambios:
+    ![04](./images/GitStashB2.png)
