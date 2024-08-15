@@ -41,6 +41,15 @@
     /target
 las carpetas a las que deseamos restringir los cambios
 ![12](images/12.png)
-10. 
+10. creamos las carpetas de manera manual sin contenido alguno, o utilizamos mkdir dir-A , mkdir dir-B
+![13](images/13.png)
+11. Realizamos un git add . para guardar todos lso cambios y archivos creados. Y con git status validamos los cambios guardados.
+![14](images/14.png)
+Validamos la rama-B anteriormente creada con git branch -l.
+![15](images/15.png)
+12. Ahora realizamos el commit con git commit -m "FIX:issue 2" para realizar el commit de la rama A con el nombre indicado.
+
+
+
 
 
