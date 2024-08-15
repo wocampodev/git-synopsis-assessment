@@ -82,20 +82,66 @@
 
 6. Ejemplifique el uso de git para la modificación de ficheros en la rama A y en la rama B simultaneamente **sin generar commits en el historial de cambios**.
 
-    - Modificamos ficheros en la rama B.
-    - Guardamos los cambios de la rama B usando git stash.
-    - Cambiamos a la rama A y modificamos otros ficheros.
-    - Aplicamos los cambios de la rama B en la rama A
+    - Modificamos ficheros en la rama A.
+
+        ![01](./images/S06-01.png)
+
+    - Guardamos los cambios de la rama A usando git stash.
+
+        ![01](./images/S06-02.png)
+
+    - Cambiamos a la rama B y modificamos otros ficheros.
+
+        ![01](./images/S06-03.png)
+    
+    - Aplicamos los cambios de la rama A en la rama B
+
+        ![01](./images/S06-04.png)
+    
     - Guardarmos los cambios en un stash temporalmente
-    - Cambiamos a la rama B y aplicamos los cambios combinados
+
+        ![01](./images/S06-05.png)
+
+    - Cambiamos a la rama A y aplicamos los cambios combinados
+
+        ![01](./images/S06-06.png)
+
 
 7. Ejemplifique el uso de git para la generación y publicación de un **nuevo release (versión)** de su código.
+
+    - Vamos a la pestaña Releases en GitHub.
+    - Hacemos clic en Create a new release.
+
+        ![01](./images/S07-01.png)
+
+    - Asignamos un nombre a la versión y seleccionamos la rama a usar.
+    - Añadimos una descripción y publicamos la release.
+
+        ![01](./images/S07-02.png)
 
 ## Extras
 
 1. Ejemplique el uso de git para devolver un fichero del **staging area** al estado anterior.
 
+    - Primero realizamos una modificacion a un fichero, lo añadimos al *staging area* verificamos que se añadio usando `git status`.
+
+        ![01](./images/EX01-01.png)
+
+    - Usando `git reset` devolver el archivo del staging area al estado anterior y comprobamos usando `git status`
+
+        ![01](./images/EX01-02.png)
+
+
 2. Ejemplifique el uso de git para regresar en el tiempo hacia un **commit anterior en la rama A** de su repositorio remoto propio.
+
+    - Encontramos el Hash del Commit Anterior
+
+        ![01](./images/EX02-01.png)
+
+    - Hacemos un Reset al Commit Anterior y verificamos
+
+        ![01](./images/EX02-02.png)
+
 
 - Investigar sobre **git reset**
     - `git reset` es un comando de Git que se utiliza para revertir cambios en el repositorio de trabajo.
