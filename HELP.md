@@ -22,6 +22,6 @@ Seguidamente, creamos la nueva rama llamada "A"  y verificamos la creación y qu
 Pot último, cree los ficheros "script.js", "styles.css" y el "index.html":
     ![05](./images/05.png)
 
-2. Hice Y
+2. Primeramente, 
 
     ...
