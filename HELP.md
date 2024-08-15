@@ -123,14 +123,18 @@
 
 1. Ejemplique el uso de git para devolver un fichero del **staging area** al estado anterior.
 
-    - Para devolver un archivo del staging area al estado anterior, usamos `git reset`.
+    - Primero realizamos una modificacion a un fichero, lo añadimos al *staging area* verificamos que se añadio usando `git status`.
 
         ![01](./images/EX01-01.png)
+
+    - Usando `git reset` devolver el archivo del staging area al estado anterior y comprobamos usando `git status`
 
         ![01](./images/EX01-02.png)
 
 
 2. Ejemplifique el uso de git para regresar en el tiempo hacia un **commit anterior en la rama A** de su repositorio remoto propio.
+
+    -Para regresar a un commit anterior
 
 - Investigar sobre **git reset**
     - `git reset` es un comando de Git que se utiliza para revertir cambios en el repositorio de trabajo.
