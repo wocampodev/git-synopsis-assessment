@@ -2,7 +2,7 @@
 
 ## Actividad 1
 
-1. Hice X
+1. Hola
 
     ![01](./images/01.png)
 
