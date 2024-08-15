@@ -134,7 +134,14 @@
 
 2. Ejemplifique el uso de git para regresar en el tiempo hacia un **commit anterior en la rama A** de su repositorio remoto propio.
 
-    -Para regresar a un commit anterior
+    - Encontramos el Hash del Commit Anterior
+
+        ![01](./images/EX02-01.png)
+
+    - Hacemos un Reset al Commit Anterior y verificamos
+
+        ![01](./images/EX02-02.png)
+
 
 - Investigar sobre **git reset**
     - `git reset` es un comando de Git que se utiliza para revertir cambios en el repositorio de trabajo.
