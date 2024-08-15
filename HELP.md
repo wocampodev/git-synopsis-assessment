@@ -34,7 +34,11 @@
 
 ## Actividad 7
 
-1. Nos dirigimos al directorio main para generar una version release del codigo
-2. Ejecutamos el comando pull para que desde la rama en la que trabajamos generando y publicando este actualizada con los cambios en el repositorio remoto.
+1. Nos dirigimos al directorio main para generar una version release del codigo. Ejecutamos el comando pull para que desde la rama en la que trabajamos generando y publicando este actualizada con los cambios en el repositorio remoto.
 
-3. Creamos un tag para que sea mas facil de identificar la nueva version del codigo, en este caso el nombre del tag es "v1cod"
+    ![20](./images/20.png)
+
+2. Creamos un tag para que sea mas facil de identificar la nueva version del codigo, en este caso el nombre del tag es "v1cod"
+
+    ![21](./images/21.png)
+
