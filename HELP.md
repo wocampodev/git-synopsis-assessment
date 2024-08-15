@@ -45,7 +45,7 @@
 
     ![01](./images/09.png)
 
-2. Integré la ese commit de la rama **hotfix/main** en la rama A y luego lo verifique.
+2. Integré el commit de la rama **hotfix/main** en la rama A y luego verifique.
 
     ![02](./images/10.png)
 
