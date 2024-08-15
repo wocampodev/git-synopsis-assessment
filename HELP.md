@@ -79,3 +79,10 @@ Por último regresamos A, donde aplicamos con "git stash pop" lo que se guardo t
     ![23](./images/23.png)
 
 
+## EXTRAS
+
+1. Para delvolver un fichero del staggin area al estado anterior podemos usar "git restore". Para este ejemplo crearemos un fichero de ejemplo "Extra.txt".
+Luego, agregamos el ficheroa al Stagging area, pero si decidimos no inlcuir el fichero en el proximo commit. Podemos devolverlo al estado anterio con "git restor" con "--stage" nos indica que este archivo sera separado y dejado atras en el directorio sin cambios. 
+
+![26](./images/26.png)
+
