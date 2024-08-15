@@ -27,7 +27,7 @@ Pot último, cree los ficheros "script.js", "styles.css" y el "index.html":
     ![06](./images/06.png)
     ![07](./images/07.png)
 
-para comprobar si toma en cuenta estos archivos hacemos un "git status" si existe algun archivo con esa ruta. Segun la documentación, si no se ve en el indice de Git, es buena practica y para inconvenientes futuros, borrar el indice de Git con : 
+Luego , para comprobar si toma en cuenta estos archivos hacemos un "git status" si existe algun archivo con esa ruta. Segun la documentación, si no se ve en el indice de Git, es buena practica y para inconvenientes futuros, borrar el indice de Git con : 
 
    ![08](./images/08.png)
    ![09](./images/09.png)
